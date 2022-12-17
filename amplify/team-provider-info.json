@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "sturdyamplifyapp15b75b65": {}
+      },
+      "api": {
+        "sturdyamplifyapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
